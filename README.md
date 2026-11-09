@@ -20,11 +20,10 @@
 
 I'm a **machine learning researcher and Python engineer** working at the intersection of **multimodal medical AI, longitudinal prediction, computer vision, and dependable software engineering**.
 
-- 🔬 **Research:** Research Assistant at National Cheng Kung University, developing uncertainty-aware predictive models for physiological and clinical data.
-- 🧠 **Current focus:** Joint-Embedding Predictive Architectures (**JEPA**), multimodal latent-state forecasting, EEG/ECG time-series transformers, uncertainty calibration, and robust clinical prediction.
+- 🔬 **Research:** Research Assistant at National Cheng Kung University.
+- 🧠 **Current focus:** EEG/ECG time-series transformers, uncertainty calibration, and robust clinical prediction.
 - 🛠️ **Engineering:** Python pipelines, reproducible experiments, data validation, REST APIs, SQLite, automated testing, and CI.
 - 👁️ **Computer vision:** First-author published work on real-time microscopy object detection and embedded inference for a portable microfluidic platform.
-- 🏢 **Industry:** Around five years in enterprise data-quality and anomaly-monitoring workflows at **Accenture**.
 - 🤖 **AI-assisted development:** Using coding assistants to accelerate implementation, debugging, and tests while critically reviewing correctness and limitations.
 
 > I care about more than model accuracy: **clear task formulation, reliable data, well-designed evaluations, calibrated uncertainty, and software that can be tested and maintained.**
